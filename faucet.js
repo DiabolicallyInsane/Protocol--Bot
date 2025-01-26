@@ -5,7 +5,7 @@ async function claimTokens() {
 
     // Replace this with the actual Ethereum address you want to use
     const payload = {
-        address: "0xde2DbBD06b55b6c9A1893d99c8760dDb912411a0"
+        address: "0x673fcF2440FDe7A154150bAb04853A4583bE9d69"
     };
 
     // Custom headers (add or modify as needed)
